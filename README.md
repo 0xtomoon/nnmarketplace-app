@@ -1,7 +1,7 @@
 # NNMarketplace App
-NFTMarketplace application which can list, purchase and upgrade NFTs
-Frontend: Next.js + Typescript + Redux + Wagmi
-Backend: Node.js + Express.js + Mysql
+- NFTMarketplace application which can list, purchase and upgrade NFTs
+- Frontend: Next.js + Typescript + Redux + Wagmi
+- Backend: Node.js + Express.js + Mysql
 
 ## Frontend Installation
 

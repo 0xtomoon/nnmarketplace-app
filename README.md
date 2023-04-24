@@ -3,6 +3,9 @@
 - Frontend: Next.js + Typescript + Redux + Wagmi
 - Backend: Node.js + Express.js + Mysql
 
+## Preview
+https://failiem.lv/u/752u5fare#/view/fukz7v74p
+
 ## Frontend Installation
 
 To run this application, you need to have Node.js and NPM (or Yarn) installed on your computer.
